@@ -1,7 +1,7 @@
 {
   "name": "lelylan-nodes",
   "description": "Lelylan nodes to let Lelylan access the largest number of devices",
-  "author": "Lelylan Dev Team <touch@lelylan.com>",
+  "author": "Cuyaya Dev Team <touch@cuyaya.com>",
   "scripts": {
     "test": "make bail"
   },
